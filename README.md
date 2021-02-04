@@ -1,1 +1,0 @@
-# eksisozluk_scraper
