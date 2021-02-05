@@ -1,8 +1,6 @@
-# Analyzing Public Perception of Turkey's Controversial President Erdogan
+# Visualizing Turkey's Political Leaders
 
-The aim of this project is to find out what Turkish people have said about their leaders on the internet or perhaps, how they feel about them and what they think of them.
-
-## 1. EksiSozluk (sour dictionary) and Data
+The aim of this project is to find out what Turkish people have said the most about some of their leaders on a public internet forum, eksisozluk.
 
 EksiSozluk is the biggest, public, forum-like website of Turkey. It is somehow similar to Reddit with a more dictionary-like structure. It mainly consists of threads and user entries under these threads.
 
